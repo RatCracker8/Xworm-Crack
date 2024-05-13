@@ -1,1 +1,1 @@
-idk what to put here but enjoy this its Xworm Rat V5.6 Please dont blame me for anything that happens when using this thanks :D
+idk what to put here but enjoy this its Xworm Rat V5.6 Please dont blame me for anything that happens when using this, also it is a little bit outdated so if it doesnt work try install .NET V8.0 or higher Thanks :D
